@@ -35,8 +35,8 @@ Follow these steps to run locally or contribute:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sarthakghode/Portfolio-New.git
-cd Portfolio-New
+git clone https://github.com/SarthakHackss/Portfolio.git
+cd Portfolio
 
 # Install dependencies
 npm install
