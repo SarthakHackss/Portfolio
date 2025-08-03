@@ -1,6 +1,6 @@
 <!-- Portfolio Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarthakghode/Portfolio-New/main/Especially-Safe-imgs/Screenshot%202025-08-03%20011912.png" alt="Portfolio Screenshot" width="800"/>
+  <img src="https://github.com/SarthakHackss/Portfolio/blob/main/Screenshot%202025-08-03%20135635.png" alt="Portfolio Screenshot" width="800"/>
 </p>
 
 # 💼 My Developer Portfolio
