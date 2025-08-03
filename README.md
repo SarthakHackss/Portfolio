@@ -26,7 +26,10 @@ Welcome to my personal developer portfolio! This project showcases my skills, ex
 - Scroll animations and clean UI
 - Contact section with form integration
 - Deployed using GitHub Pages
-
+- 
+🌐 Live Demo
+🚀 Check it out live here:
+🔗 https://SarthakHackss.github.io/Portfolio
 ---
 
 ## 🔧 Getting Started
@@ -44,14 +47,9 @@ npm install
 # Start local dev server
 npm start
 
-🌐 Live Demo
-🚀 Check it out live here:
-🔗 https://SarthakHackss.github.io/Portfolio
-
-
-
 # Build for production
 npm run build
 
 # Deploy to GitHub Pages
 npm run deploy
+
